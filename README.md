@@ -31,7 +31,7 @@ alt="IMAGE ALT TEXT HERE" width="800" height="400" border="10" />
 ## Transaction Detail
 
 <img src="transaction.png" 
-alt="IMAGE ALT TEXT HERE" width="800" height="400" border="10" />
+alt="IMAGE ALT TEXT HERE" width="800" height="500" border="10" />
 
 ## Ether Amount Detail
 
