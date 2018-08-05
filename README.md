@@ -35,10 +35,10 @@ alt="IMAGE ALT TEXT HERE" width="800" height="400" border="10" />
 
 ## Ether Amount Detail
 
-I have added 3 ether from RinkeBy Test Network.After First Transaction,it get reduced to 2.999 ether.
+I have added 3 ether from RinkeBy Test Network.After first Transaction,it get reduced to 2.999 ether.
 
 <img src="metamask.png" 
-alt="IMAGE ALT TEXT HERE" width="800" height="400" border="10" />
+alt="IMAGE ALT TEXT HERE" width="500" height="800" border="10" style="align:center"/>
 
 ## License
 
